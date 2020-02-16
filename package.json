@@ -1,0 +1,17 @@
+{
+  "name": "BookMySpot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bookMySpot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo-connect": "0.0.6",
+    "mongodb": "^3.5.3"
+  }
+}

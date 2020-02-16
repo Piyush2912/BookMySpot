@@ -1,0 +1,22 @@
+#he1{
+    text-align: center;
+	padding: 10px;
+	border: 4px solid black;
+	position: sticky;
+    position: -webkit-sticky;
+    background-color: darkorchid;
+}
+#f1{
+    font-size: 30px;
+}
+.b{
+    background-color: dodgerblue;
+    height: 100px;
+    width: 150px;
+}
+#b1{
+    transform: translate(550px,0px);
+}
+#b2{
+    transform: translate(550px,100px);
+}

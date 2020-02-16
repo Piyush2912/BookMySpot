@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <script src="storage.js"></script>
+    </head>
+    <body>
+ <input id ="id"/>
+ <button onclick="tt()">Submit</button>
+ <div>
+     <h1>PARKING POSITION ALLOTED</h1>
+     <h1 id="id2"></h1>
+     <h1>THANK YOU</h1>
+     <h1 id="id3"></h1>
+    </div>
+    <script>
+        var pos = new Array();
+            function tt() {
+                l = document.getElementById("id").value;
+                alert(l);
+                var arr = new Array();
+                for (var j = 0; j <= 200; j++) {
+                    pos[j] = 0;
+                }
+
+                for (var i = 1; i <= 5; i++) {
+                    if (pos[i] == 0) {
+                        k = i;
+                        pos[i] = 1;
+                        arr[i] = l;
+                        break;
+                    }
+                }
+                document.getElementById("id2").innerHTML = k;
+                document.getElementById("id3").innerHTML = l;
+            }
+    </script>
+    </body>
+ </html>   
+       
