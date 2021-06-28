@@ -8,19 +8,21 @@ https://user-images.githubusercontent.com/47279598/123598948-ae499180-d812-11eb-
 
 # Demonstration Video For Users who wants to provide parking space:
 
-
-
-https://user-images.githubusercontent.com/47279598/123614617-21a6cf80-d822-11eb-87ac-7991ef2aa567.mp4
-
-
-
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/47279598/123615195-b27dab00-d822-11eb-9b01-c83aba062f48.gif" >
+</p>
+  
 ## Table of Contents:
 1. Motivation
 2. Problem Statement
 3. Introduction
 4. Requirements
 5. Workflow
+  * 5.1 For New Users
+  * 5.2 For Existing Users
+  * 5.3 For Users who wants to provide parking spot
 6. Summary and Conclusion
+7. Limitations
 
 ## 1. Motivation
 - Need of organized parking system in malls.
@@ -48,7 +50,7 @@ https://user-images.githubusercontent.com/47279598/123614617-21a6cf80-d822-11eb-
 
 ## 5. Workflow/ How to use website?
 
-### For New Users:
+### 5.1 For New Users:
 
 Step 1: Home Page
 
@@ -82,7 +84,7 @@ Step 3: Ticket Generator
 
 - Your Ticket number is '1' as indicated above.
 
-## For Existing Users:
+### 5.2 For Existing Users:
 
 Step 1: Home Page (For Regular Users)
 
@@ -116,13 +118,67 @@ Step 3: Ticket Generator
 
 - Your ticket number is '1' as indicated above.
 
+### 5.3 For Users who wants to provide parking spot
+
+<p align='center'>
+  <img src ="https://user-images.githubusercontent.com/47279598/123616807-456b1500-d824-11eb-9af3-e9e19ae798b7.gif">
+</p>
+
+Step 1: Home Page
+
+![1st](https://user-images.githubusercontent.com/47279598/123619041-66cd0080-d826-11eb-88a8-241004198a6f.png)
+
+- Click on Wants to provide parking space button.
+
+Step 2: Parking spot provider sign up form
+
+![2nd](https://user-images.githubusercontent.com/47279598/123619013-62084c80-d826-11eb-86b5-b88dcb2069b0.png)
+
+- Fill in the details:
+  - 'first name' for entering User Name
+  - 'adhar card number' for entering adhar card number of user
+  - 'your image' for selecting image of user
+  - 'your adhar card image' for selecting adhar card image
+
+![second last](https://user-images.githubusercontent.com/47279598/123618991-5cab0200-d826-11eb-85b9-e6f157eb9f62.png)
+
+- After filling the details, click on Submit button.
+
+Step 3: Final Verification Page
+
+![last](https://user-images.githubusercontent.com/47279598/123618961-5157d680-d826-11eb-8f92-a9964494ee42.png)
+
+
 ## 6. Summary and Conclusion
+
 - An interactive web application has been developed, so users can park their cars in a faster and efficient manner in organized and unorganized sectors.
 - This system is fast and efficient.
 - A seperate portal has been developed for agencies to make them register for owners of parking spots.
 - BookMySpot can be used as a connecting bridge between malls and users.
 
-TO DO LIST
-1. Change Database to Relational Database.
-2. Designing of site.
-3. Proper Database record management.
+## 7. Limitations
+
+- Lack of availability of dataset, which was solved by manually creating dataset.
+- Dependence on dependencies which updates every now and then, need to cope up with updatation in libararies.
+- Need for developement of existing and additional features.
+
+## 8. Future Scope
+
+- Enhancing the size of dataset.
+- Developing a complete web portal for both users and companies.
+- Can be made reliable, secure, fast and efficient in each phase of interaction.
+
+## 9. Credits
+
+Thanking my HackDUCS Team for always supporting me.
+
+- Rohan Arora : https://www.linkedin.com/in/rohanarora18/
+- Udit Sisodia : https://www.linkedin.com/in/udit-sisodia-6b5799190/
+- Siddharth Sharma : https://www.linkedin.com/in/siddharth-sharma-5438a7186/
+
+## 10. License
+
+Apache License 2.0
+
+
+
