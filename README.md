@@ -1,5 +1,5 @@
 # BookMySpot
-Online Parking System for Organized and Unorganized Sectors
+Developed a basic website for online parking system for organized and unorganized sectors using technologies like HTML, CSS, JS, MongoDB, and NodeJS.
 
 # Demonstration Video:
 
@@ -18,9 +18,9 @@ https://user-images.githubusercontent.com/47279598/123598948-ae499180-d812-11eb-
 3. Introduction
 4. Requirements
 5. Workflow
-  - 5.1 For New Users
-  - 5.2 For Existing Users
-  - 5.3 For Users who wants to provide parking spot
+    - 5.1 For New Users
+    - 5.2 For Existing Users
+    - 5.3 For Users who wants to provide parking spot
 6. Summary and Conclusion
 7. Limitations
 8. Future Scope
