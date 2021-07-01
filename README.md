@@ -173,7 +173,7 @@ Step 3: Final Verification Page
 
 ## 9. Credits
 
-Thanking my HackDUCS Team for always supporting me.
+Thanking my HackDUCS Team for always supporting me..
 
 - Rohan Arora : https://www.linkedin.com/in/rohanarora18/
 - Udit Sisodia : https://www.linkedin.com/in/udit-sisodia-6b5799190/
